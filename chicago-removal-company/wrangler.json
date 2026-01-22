@@ -2,9 +2,9 @@
   // Configuration for Cloudflare Workers
   "name": "chicago-removal-company",
   "main": "src/index.js",
-  "compatibility_date": "2025-01-01",
+  "compatibility_date": "2026-22-01",
   "assets": {
-    "directory": "./public",
+    "directory": "./dist",
     "binding": "CRC"
   }
 }
