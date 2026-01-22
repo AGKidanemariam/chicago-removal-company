@@ -1,9 +1,0 @@
-{
-  // Configuration for Cloudflare Workers
-  "name": "chicago-removal-company",
-  "main": "src/index.js",
-  "compatibility_date": "2026-01-22",
-  "assets": {
-    "directory": "Public",
-    "binding": "MY-BINDINGS"  }
-}
